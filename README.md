@@ -1,3 +1,9 @@
+Steps to run the application :
+
+Run “npm install”
+Run “npm start”
+Project will run at URL “http://localhost:4200/”
+
 # Acronyms
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
